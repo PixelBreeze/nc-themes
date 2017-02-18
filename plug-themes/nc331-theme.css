@@ -1515,7 +1515,7 @@
 /* PROFILE */
 #the-user-profile
 {
-        background:             rgba(0, 0, 0, 1);
+        background:             -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%);
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
@@ -1666,7 +1666,7 @@
 /* FRIENDS */
 #user-friends
 {
-        background:             rgba(0, 0, 0, 1);
+        background:             -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%);
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
