@@ -4422,3 +4422,70 @@
 {
     background: url("http://i.imgur.com/uvkSrZm.png");
 }
+
+/* LIST MENU THINGS */
+
+#rcs-menu {
+    background: -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 100%);
+}
+
+#user-lists, #waitlist {
+    background: -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 100%);
+}
+
+.app-right .friends {
+    background: -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 100%);
+}
+
+#waitlist .list .user {
+    background: none;
+}
+
+#user-lists .list.staff .group {
+    background: rgb(3, 0, 7) !important;
+}
+
+.subscribe-button {
+    border-radius: 16px;
+}
+
+.user-content.profile .meta.is-staff .role span {
+    color: #626cbc;
+}
+
+/* According Colors for the-user-profile role names */
+.icon-chat-silver-subscriber + span {
+    color: #8694b2;
+}
+.icon-chat-subscriber + span {
+    color: #c59840;
+}
+.icon-chat-dj + span {
+    color: #547bc9;
+}
+.icon-chat-bouncer + span {
+    color: #626cbc;
+}
+.icon-chat-manager + span {
+    color: #7854a9;
+}
+.icon-chat-cohost + span {
+    color: #87449c;
+}
+.icon-chat-host + span {
+    color: rgba(236, 126, 51, 1);
+}
+.icon-chat-ba + span {
+    color: green;
+}
+.icon-chat-admin + span {
+    color: blue;
+}
+
+/* CHANGE LOG */
+/*
+All user menus have - -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%)
+App-right menus have - -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 100%)
+Subscribe button - added radius of 16px
+According Colors for the-user-profile role names
+*/
