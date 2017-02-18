@@ -3972,7 +3972,7 @@
 /* COMMUNITIES */
 #user-communities
 {
-      background: rgba(0, 0, 0, 1); 
+      background: -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%) !important; 
       border-left: 3px solid rgba(42, 29, 64, 1); 
 }
 
