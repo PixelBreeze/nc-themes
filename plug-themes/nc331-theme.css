@@ -1469,7 +1469,7 @@
 
 /* SIDE MENU */
 #user-menu{
-        background:             rgb(3, 0, 7) !important;
+        background:	-webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%);
 }
 
 #user-menu .avatar,
@@ -1530,7 +1530,7 @@
 /* MY STUFF */
 #user-inventory
 {
-        background:             rgba(0, 0, 0, 1);
+        background:             -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%);
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
@@ -1604,7 +1604,7 @@
 /* SHOP */
 #user-store
 {
-        background:             rgba(0, 0, 0, 1);
+        background:             -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%);
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
@@ -1740,7 +1740,7 @@
 /* RECENTLY PLAYED */
 #user-history
 {
-      background:               rgba(0, 0, 0, 1); 
+      background:               -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%);
       border-left:              3px solid rgba(42, 29, 64, 1); 
 }
 
@@ -1760,7 +1760,7 @@
 /* COMMUNITIES */
 #user-communities
 {
-      background: rgba(0, 0, 0, 1); 
+      background: -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%); 
       border-left: 3px solid rgba(42, 29, 64, 1); 
 }
 
@@ -1802,7 +1802,7 @@
 /* SETTINGS */
 #user-settings
 {
-      background:               rgb(3, 0, 7) !important;
+      background:               -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%) !important;
       border-left:              3px solid rgba(42, 29, 64, 1);
 }
 
