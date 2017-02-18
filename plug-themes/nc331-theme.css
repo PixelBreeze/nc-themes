@@ -3681,7 +3681,7 @@
 
 /* SIDE MENU */
 #user-menu{
-        background:             rgb(3, 0, 7) !important;
+        background:             -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%) !important;
 }
 
 #user-menu .avatar,
@@ -3727,7 +3727,7 @@
 /* PROFILE */
 #the-user-profile
 {
-        background:             rgba(0, 0, 0, 1);
+        background:             -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%) !important;
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
@@ -3742,7 +3742,7 @@
 /* MY STUFF */
 #user-inventory
 {
-        background:             rgba(0, 0, 0, 1);
+        background:             -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%) !important;
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
@@ -3816,7 +3816,7 @@
 /* SHOP */
 #user-store
 {
-        background:             rgba(0, 0, 0, 1);
+        background:             -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%) !important;
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
@@ -3878,7 +3878,7 @@
 /* FRIENDS */
 #user-friends
 {
-        background:             rgba(0, 0, 0, 1);
+        background:             -webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%) !important;
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
