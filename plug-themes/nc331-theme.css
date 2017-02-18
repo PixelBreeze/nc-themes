@@ -2233,40 +2233,36 @@
     background: rgb(3, 0, 7) !important;
 }
 
-.subscribe-button {
-    border-radius: 16px;
-}
-
 .user-content.profile .meta.is-staff .role span {
     color: #626cbc;
 }
 
 /* According Colors for the-user-profile role names */
-.icon-chat-silver-subscriber + span {
+.info .role .icon.icon-chat-silver-subscriber + span {
     color: #8694b2;
 }
-.icon-chat-subscriber + span {
+.info .role .icon.icon-chat-subscriber + span {
     color: #c59840;
 }
-.icon-chat-dj + span {
+.info .role .icon.icon-chat-dj + span {
     color: #547bc9;
 }
-.icon-chat-bouncer + span {
+.info .role .icon.icon-chat-bouncer + span {
     color: #626cbc;
 }
-.icon-chat-manager + span {
+.info .role .icon.icon-chat-manager + span {
     color: #7854a9;
 }
-.icon-chat-cohost + span {
+.info .role .icon.icon-chat-cohost + span {
     color: #87449c;
 }
-.icon-chat-host + span {
+.info .role .icon.icon-chat-host + span {
     color: rgba(236, 126, 51, 1);
 }
-.icon-chat-ba + span {
+.info .role .icon.icon-chat-ambassador + span {
     color: green;
 }
-.icon-chat-admin + span {
+.info .role .icon.icon-chat-admin + span {
     color: blue;
 }
 
