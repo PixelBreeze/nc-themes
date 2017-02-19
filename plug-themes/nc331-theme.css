@@ -2173,7 +2173,7 @@
 
 .icon-chat-dj 
 {
-    background: url("https://i.imgur.com/F6gPcXh.png") !important;
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_RDJ.png") !important;
 }
 
 .cm.role-bouncer .from .un, .role-bouncer .name
@@ -2183,7 +2183,7 @@
 
 .icon-chat-bouncer 
 {
-    background: url("http://i.imgur.com/aulbyGa.png");
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Bouncer.png");
 }
 
 .cm.role-manager .from .un, .role-manager .name
@@ -2193,7 +2193,7 @@
 
 .icon-chat-manager 
 {
-    background: url("http://i.imgur.com/Ia0XNqc.png");
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Manager.png");
 }
 
 .cm.role-cohost .from .un, .role-cohost .name, .cm.role-host .from .un, .role-host .name
@@ -2203,12 +2203,22 @@
 
 .icon-chat-cohost 
 {
-    background: url("http://i.imgur.com/Qhh7mps.png");
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_CoHost.png");
 }
 
 .icon-chat-host 
 {
-    background: url("http://i.imgur.com/uvkSrZm.png");
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Host.png");
+}
+
+.icon-chat-admin 
+{
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Admin.png");
+}
+
+.icon-chat-ambassador 
+{
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_BA.png");
 }
 
 /* pixel's changes */
