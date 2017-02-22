@@ -2277,7 +2277,7 @@
     color: rgba(236, 126, 51, 1);
 }
 .info .role .icon.icon-chat-ambassador + span {
-    color: green;
+    color: #89be6c;
 }
 .info .role .icon.icon-chat-admin + span {
     color: blue;
