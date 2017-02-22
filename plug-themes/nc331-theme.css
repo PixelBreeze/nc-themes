@@ -1469,7 +1469,7 @@
 
 /* SIDE MENU */
 #user-menu{
-        background:	-webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%);
+        background:	-webkit-linear-gradient(top, rgb(8, 2, 18) 0%,rgba(2,0,6,1) 94%) !important;
 }
 
 #user-menu .avatar,
