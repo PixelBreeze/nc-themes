@@ -2270,11 +2270,8 @@
 .info .role .icon.icon-chat-manager + span {
     color: #7854a9 !important;
 }
-.info .role .icon.icon-chat-cohost + span {
-    color: #87449c !important;
-}
 .info .role .icon.icon-chat-host + span {
-    color: rgba(236, 126, 51, 1) !important;
+    color: #87449c !important;
 }
 .info .role .icon.icon-chat-ambassador + span {
     color: #89be6c !important;
