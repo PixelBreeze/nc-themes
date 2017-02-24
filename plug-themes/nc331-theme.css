@@ -2255,29 +2255,43 @@
 }
 
 /* According Colors for the-user-profile role names */
-.info .role .icon.icon-chat-silver-subscriber + span {
+.left .info .role .icon.icon-chat-silver-subscriber + span {
     color: #8694b2 !important;
 }
-.info .role .icon.icon-chat-subscriber + span {
+.left .info .role .icon.icon-chat-subscriber + span {
     color: #c59840 !important;
 }
-.info .role .icon.icon-chat-dj + span {
+.left .info .role .icon.icon-chat-dj + span {
     color: #547bc9 !important;
 }
-.info .role .icon.icon-chat-bouncer + span {
+.left .info .role .icon.icon-chat-bouncer + span {
     color: #626cbc !important;
 }
-.info .role .icon.icon-chat-manager + span {
+.left .info .role .icon.icon-chat-manager + span {
     color: #7854a9 !important;
 }
-.info .role .icon.icon-chat-host + span {
+.left .info .role .icon.icon-chat-host + span {
     color: #87449c !important;
 }
-.info .role .icon.icon-chat-ambassador + span {
+.left .info .role .icon.icon-chat-ambassador + span {
     color: #89be6c !important;
 }
-.info .role .icon.icon-chat-admin + span {
+.left .info .role .icon.icon-chat-admin + span {
     color: blue;
+}
+
+/*user rolover rank color*/
+#user-rollover.is-staff .info .role .icon.icon-chat-dj + span {
+    color: #547bc9 !important;
+}
+#user-rollover.is-staff .info .role .icon.icon-chat-bouncer + span {
+    color: #626cbc !important;
+}
+#user-rollover.is-staff .info .role .icon.icon-chat-manager + span {
+    color: #7854a9 !important;
+}
+#user-rollover.is-staff .info .role .icon.icon-chat-host + span {
+    color: #87449c !important;
 }
 
 /* CHANGE LOG */
